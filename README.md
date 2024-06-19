@@ -4,6 +4,6 @@
 - react js and tailwind css
 
 # Api : 
-_ we use fast api and such server like uvicorn 
+- we use fast api and such server like uvicorn 
 
  Happy conding to all :)
